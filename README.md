@@ -1,49 +1,48 @@
-# Case Study - Hypothesis Testing 2
+# Welcome to Case Study 2: Hypothesis Testing
+Group members:
+Tia Plagata
+Joseph Denney
+​
+![hello](https://tenor.com/view/are-you-testing-me-satan-father-priest-gif-17392429)
+​
+# Navigation
+​
+* [Project Overview](#Project-Overview)
+* [Question 1](#Question-1)
+* [Question 2](#Question-2)
+* [Question 3](#Question-3)
+​
+​
+# Important Links
+​
+* [Jupyter Notebook with Cleaning & Questions](https://github.com/JosephDenney/dsc-case-study-hypothesis-testing/blob/master/notebooks/student.ipynb)
+​
+# Project Overview
+​
+We are data scientists working for Northwind, a supplier company. Our job is find interesting relationships in their SQL database. In this case study we will explore their data and perform hypothesis tests to find the significance of these relationships.
+​
+In the process, we explored the following questions: 
+​
+# Question 1
+Is there a difference in quantity of products sold by discount rate?
+​
+**Findings/Actionable Insights:**
+There is no significant difference between quantity of products ordered for 0% discount and 10% discount, Therefore, we should not offer a 10% discount.
+​
+# Question 2
+Is there a difference in number of orders and region?
+​
+**Findings/Actionable Insights:**
+There seems to be a more significant difference between North America and the other regions, and Western Europe and the other regions, but not between North America and Western Europe. Therefore, we should investigate further between North America, Western Europe, and regions with lower order quantities, such as Scandanavia and Central America. 
+​
+# Question 3
+(Deep-dive into Q2)
+Is there a difference in number of orders between North America and Western Europe?
+​
+**Findings/Actionable Insights:**
+There is no significant difference between mean number of orders in North America and Western Europe. They are the two regions with the highest mean number of orders, compared to all other regions. Therefore, when allocating budgets, we should consider this finding, and potentially allocate an even amount of resources amongst them. 
 
-## Where stuff is 
-* `notebooks/student.ipynb` -> notebook where work goes
-* `data/northWind.sqlite` -> dataset you'll be using
-* `images/` -> put any images you use here
-* `notebooks/` -> if you make extra notebooks, put them here
-
-## Deliverables
-* Notebooks(s) with questions answered
-    * hypothesis tests conducted correctly
-    * test for normality
-* Three code snippets to share with others
-    * Did you write a cool function? 
-    * Did you create a .py File
-    * Did you make a class that will take in data and test it?
-    * Did you make a function for visualizations?
-* Custom README.md
-    * Show Intro
-    * Show Questions
-* No Presentation (Unless you want to make one)
-
-## Instructions
-You are a DS working for Northwind, a supplier company.  Your job is find interesting relationships in their database.  They have tasked you with two questions. You'll find these in the notebooks. You are then tasked to dig into the data in a way that you find interesting.
 
 
-* Answer the following questions using sampling distributions
-* For each question
-    * Setup a hypothesis test writing H0 and HA
-    * Conduct test with a alpha of 0.05
-    * Show distributions in a visualization
-        * Use a legend to label distributions
-    * Write a conclusion
-    * If there is a difference in means
-        * Use Cohen's D to measure the effect size
-        * Conduct a Power Analysis
-* Remember if you have multiple groups use ANOVA and Tukey Testing
-* Work should be done in the `student.ipynb` file found in the `notebooks/` directory
-* Create a custom README.md for your repo
-
-## Database Schema
-
-<img src="images/northwindERD.png"/>
 
 
-## Cause Memes
-<img src="images/anovaMeme.jpeg"/>
-
-# Good luck!
