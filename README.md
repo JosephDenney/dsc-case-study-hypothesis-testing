@@ -1,4 +1,4 @@
-# Case Study - Hypothesis Testing
+# Case Study - Hypothesis Testing 2
 
 ## Where stuff is 
 * `notebooks/student.ipynb` -> notebook where work goes
