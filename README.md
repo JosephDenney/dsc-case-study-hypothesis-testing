@@ -5,7 +5,6 @@ Tia Plagata & Joseph Denney
 ​
 ![hello](https://media1.tenor.com/images/a29b98e67fea932ef3a0871bc64dab4b/tenor.gif?itemid=17392429)
 ​
-
 # Navigation
 ​
 * [Project Overview](#Project-Overview)
@@ -14,7 +13,6 @@ Tia Plagata & Joseph Denney
 * [Question 3](#Question-3)
 ​
 # Important Links
-​
 * [Jupyter Notebook with Cleaning & Questions]()
 ​
 # Project Overview
