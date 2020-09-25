@@ -38,6 +38,7 @@ There seems to be a more significant difference between North America and the ot
 # Question 3
 (Deep-dive into Q2)
 ​
+
 **Is there a difference in number of orders between North America and Western Europe?**
 ​
 
