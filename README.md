@@ -12,9 +12,7 @@ Joseph Denney
 * [Question 2](#Question-2)
 * [Question 3](#Question-3)
 ​
-​
 # Important Links
-​
 * [Jupyter Notebook with Cleaning & Questions](https://github.com/JosephDenney/dsc-case-study-hypothesis-testing/blob/master/notebooks/student.ipynb)
 ​
 # Project Overview
