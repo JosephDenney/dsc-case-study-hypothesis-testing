@@ -23,15 +23,19 @@ In the process, we explored the following questions:
 ​
 # Question 1
 **Is there a difference in quantity of products sold by discount rate?**
+
 ​
 **Findings/Actionable Insights:**
+
 ​
 There is no significant difference between quantity of products ordered for 0% discount and 10% discount, Therefore, we should not offer a 10% discount.
 ​
 # Question 2
 **Is there a difference in number of orders and region?**
+
 ​
 **Findings/Actionable Insights:**
+
 ​
 There seems to be a more significant difference between North America and the other regions, and Western Europe and the other regions, but not between North America and Western Europe. Therefore, we should investigate further between North America, Western Europe, and regions with lower order quantities, such as Scandanavia and Central America. 
 ​
