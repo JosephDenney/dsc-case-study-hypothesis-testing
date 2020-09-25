@@ -40,7 +40,9 @@ There seems to be a more significant difference between North America and the ot
 ​
 **Is there a difference in number of orders between North America and Western Europe?**
 ​
+
 **Findings/Actionable Insights:**
+
 There is no significant difference between mean number of orders in North America and Western Europe. They are the two regions with the highest mean number of orders, compared to all other regions. Therefore, when allocating budgets, we should consider this finding and potentially allocate an even amount of resources between the two of them. We should further investigate what is causing Scandinavia and Central America to have such low per order item quantities. Finally, we can also investigate which regions, if any, are not seeing increased item quantity as a result of the 10% discount.  
 
 
